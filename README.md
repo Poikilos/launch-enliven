@@ -1,4 +1,5 @@
-# EnlivenLaunch
+# Enliven Launcher
+(launch-enliven)
 
 This project has been deferred. For now, see the upcoming
 [FinalLobby](https://github.com/poikilos/FinalLobby) instead.
