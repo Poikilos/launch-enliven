@@ -1,7 +1,8 @@
 # Enliven Launcher
 (launch-enliven)
 
-This project has been deferred. For now, see the upcoming
+This project has been deferred. For now, see progress at
+[hierosoft](https://github.com/Hierosoft/hierosoft) and
 [FinalLobby](https://github.com/poikilos/FinalLobby) instead.
 
 ## License of Media
